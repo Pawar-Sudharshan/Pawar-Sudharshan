@@ -1,14 +1,8 @@
 <h1 align="center">
-  <br>
-  <a href="https://github.com/Pawar-Sudharshan">
-    <img src="https://avatars.githubusercontent.com/u/134751538?v=4" alt="Sudharshan Pawar" width="200">
-  </a>
-  <br>
   Sudharshan Pawar
-  <br>
 </h1>
 
-<h4 align="center">Full-Stack Developer | Crafting Web Applications with Modern Tech</h4>
+<h4 align="center">Full-Stack Developer | Exploring Data Structures & Algorithms</h4>
 
 <p align="center">
   <a href="mailto:pawarsudharshan47@gmail.com">
@@ -37,6 +31,10 @@
 - ⚙️ **Backend:** Node.js, Java
 - 🗄️ **Database:** MySQL
 
+✅ **Data Structures & Algorithms**
+- Practicing problem-solving in Java, Python, and C
+- Exploring efficient coding patterns and optimizations
+
 ✅ **Other Technologies**
 - Python
 - C Programming
@@ -50,11 +48,11 @@
 
 ## 🛠️ What I Do
 
-💡 As a Full-Stack Developer, I:
+💡 As a Full-Stack Developer and DSA enthusiast, I:
 - Build **responsive web apps** end-to-end
 - Develop **RESTful APIs**
-- Integrate **databases** with backend services
-- Use modern tools and workflows to deliver clean, maintainable code
+- Work with **databases** and backend services
+- Practice **Data Structures & Algorithms** to write efficient, clean code
 
 ---
 
@@ -104,9 +102,10 @@
 
 > **💡 Currently Focused On:**
 > - Building **Full-Stack Applications**
-> - Exploring **Data Analysis Projects**
+> - Practicing **Data Structures & Algorithms**
 > - Preparing for **Software Development Roles**
 
 ---
 
-**Let’s connect and build something amazing together!**
+**Let’s connect and collaborate!**
+
