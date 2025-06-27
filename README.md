@@ -59,8 +59,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawar-Sudharshan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawar-Sudharshan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
