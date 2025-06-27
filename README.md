@@ -72,7 +72,7 @@
 | 📧 Email   | [pawarsudharshan47@gmail.com](mailto:pawarsudharshan47@gmail.com)                            |
 | 🧑‍💻 GitHub | [github.com/Pawar-Sudharshan](https://github.com/Pawar-Sudharshan)                          |
 | 🐦 Twitter | [@pawar_sudharshan](https://twitter.com/pawar_sudharshan)                                    |
-| 📷 Instagram | [@pawar_sudharshan_047](https://www.instagram.com/pawar_sudharshan_047/?__pwa=1)           |
+| 📷 Instagram | [@pawar_sudharshan_47](https://www.instagram.com/pawar_sudharshan_47/?__pwa=1)           |
 | 💬 Threads | [@pawar_sudharshan_047](https://www.threads.net/@pawar_sudharshan_047)                      |
 
 ---
@@ -88,7 +88,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/pawar_sudharshan_047" target="_blank">
+  <a href="https://www.instagram.com/pawar_sudharshan_47" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
