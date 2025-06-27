@@ -1,43 +1,52 @@
-Sudharshan Pawar 👋
-About Me 🚀
-I'm a passionate Full-Stack Developer with a focus on Data Analysis, currently pursuing BTech at CVR College of Engineering, Hyderabad, and constantly exploring new technologies to build exciting projects.
+💼 Sudharshan Pawar
+👨‍💻 About Me
+I’m a passionate Full-Stack Developer focused on Data Analysis. Currently pursuing BTech at CVR College of Engineering, Hyderabad, I’m constantly exploring new technologies and building exciting solutions.
 
-🌱 Currently learning: Advanced Web Development & Data Analysis with Python
-🔭 Goals: Preparing for college placements and enhancing my software development skills
-📧 Email: pawarsudharshan47@gmail.com
+🌱 Learning: Advanced Web Development & Data Analysis with Python
 
-Connect With Me 🔗
-<a href="https://github.com/Pawar-Sudharshan" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub"/> </a> <a href="https://www.instagram.com/pawar_sudharshan_047/?__pwa=1" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" title="Instagram"/> </a> <a href="https://www.threads.net/@pawar_sudharshan_047" target="_blank"> <img src="https://static.cdnlogo.com/logos/t/30/threads-app-icon.svg" width="35" title="Threads"/> </a> <a href="https://twitter.com/pawar_sudharshan" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" title="Twitter"/> </a>
-My Skills 🧠
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML5
+🎯 Goals: Placement readiness & mastering full-stack development
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS3
+🛠️ Interests: AI tools, Web Platforms, Data Analytics
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript
+🌟 My Technical Skills
+Frontend Development
+✅ HTML5
+✅ CSS3
+✅ JavaScript
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java
+Backend & Databases
+✅ Node.js
+✅ MySQL
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
+Programming Languages
+✅ Java
+✅ Python
+✅ C
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25"/> C
+Tools & Platforms
+✅ Git
+✅ npm
+✅ VS Code
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> Node.js
+📬 Contact Information
+Type	Details
+📧 Email	pawarsudharshan47@gmail.com
+🧑‍💻 GitHub	github.com/Pawar-Sudharshan
+📷 Instagram	@pawar_sudharshan_047
+💬 Threads	@pawar_sudharshan_047
+🐦 Twitter	@pawar_sudharshan
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> MySQL
+🌐 Social Media
+<a href="https://github.com/Pawar-Sudharshan" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> </a> &nbsp; <a href="https://www.instagram.com/pawar_sudharshan_047/?__pwa=1" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" title="Instagram"/> </a> &nbsp; <a href="https://www.threads.net/@pawar_sudharshan_047" target="_blank"> <img src="https://static.cdnlogo.com/logos/t/30/threads-app-icon.svg" width="30" title="Threads"/> </a> &nbsp; <a href="https://twitter.com/pawar_sudharshan" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" title="Twitter"/> </a>
+🏆 Featured Projects
+(Repositories coming soon)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git
+AI Fake News Detector – Machine Learning and NLP-based detection
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="25"/> npm
+Simple Calculator – Built with HTML, CSS, and JavaScript
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> VS Code
+💡 Let’s Connect
+I’m open to collaboration, internships, and learning opportunities. Whether you’d like to discuss a project, explore ideas, or connect professionally—feel free to reach out!
+--
+🚀 Let’s build something amazing together!
 
-Featured Hackathons 🏆
-🔹 AI Fake News Detector
-A project designed to detect fake news using machine learning and natural language processing.
-📂 GitHub Repository: Coming Soon
-
-🔹 Simple Calculator
-A simple yet efficient calculator built using JavaScript and CSS.
-📂 GitHub Repository: Coming Soon
-------------
-🚀 Let's build something amazing together!
