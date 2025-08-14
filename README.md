@@ -1,5 +1,5 @@
 <h1 align="center">
-  Sudharshan Pawar
+Pawar  Sudharshan 
 </h1>
 
 <h4 align="center">Full-Stack Developer | Exploring Data Structures & Algorithms</h4>
