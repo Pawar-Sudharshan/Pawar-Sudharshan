@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawar-Sudharshan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Pawar-Sudharshan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
