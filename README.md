@@ -102,7 +102,7 @@
 ## 💡 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pawar_Sudharshan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/pawars?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
 </p>
 
 ---
