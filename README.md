@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>Full-Stack Developer | MERN Stack Specialist | DSA Enthusiast</h3>
-  
+
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;DSA+%7C+Problem+Solving+Enthusiast;Always+Learning+%7C+Always+Building" />
   </p>
@@ -14,7 +14,7 @@
     <a href="https://github.com/Pawar-Sudharshan"><img src="https://img.shields.io/github/followers/Pawar-Sudharshan?label=Follow&style=social"></a>
     <a href="https://www.linkedin.com/in/pawar-sudharshan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   </p>
-  
+
   <p>
     <a href="#-key-skills">Key Skills</a> •
     <a href="#-projects">Projects</a> •
@@ -27,44 +27,56 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech** Computer Science Student  
-- 💼 **Web Development Intern** @ SkillCraft Technology
-- 💻 Passionate about building **scalable MERN applications**
-- 🧠 Active **DSA Problem Solver** on LeetCode
-- 🌱 Currently deep-diving into **System Design & Advanced Backend**
+* 🎓 **B.Tech** Computer Science Student
+* 💼 **Web Development Intern** @ SkillCraft Technology
+* 💻 Passionate about building **scalable MERN applications**
+* 🧠 Active **DSA Problem Solver** on LeetCode
+* 🌱 Currently deep-diving into **System Design & Advanced Backend**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Databases
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,python,kotlin,c,mongodb,mysql" />
 </p>
 
 ### 🌐 Web Development & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express,git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express,react,git,github,vscode,npm" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
+### 💰 [Welth – Smart Finance Management App](https://welth-ruddy-seven.vercel.app)
+
+* **Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
+* Built a full-stack personal finance tracking application enabling users to manage income, expenses, and savings efficiently.
+* Implemented secure authentication and dynamic dashboard analytics.
+* Designed responsive UI for seamless experience across devices.
+* **Deployment:** Vercel (Production Ready)
+
+---
+
 ### 🎯 [Mini Chat Application](https://github.com/Pawar-Sudharshan/mini-chat)
-- **Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap  
-- **Features:** Full CRUD functionality, real-time chat feel, and responsive UI.
+
+* **Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap
+* **Features:** Full CRUD functionality, real-time chat feel, and responsive UI.
 
 ### 📝 [PictoPost – Social Media Platform](https://github.com/Pawar-Sudharshan)
-- **Stack:** MERN (MongoDB, Express, React, Node), Multer, Bootstrap  
-- **Impact:** Developed during internship at SkillCraft. Features secure authentication and image uploads.
+
+* **Stack:** MERN (MongoDB, Express, React, Node), Multer, Bootstrap
+* **Impact:** Developed during internship at SkillCraft. Features secure authentication and image uploads.
 
 ### 🧮 [DSA Practice Repository](https://github.com/Pawar-Sudharshan)
-- **Languages:** Java, Python, C  
-- **Focus:** Comprehensive collection of solutions for interview preparation and competitive programming.
 
----
----
+* **Languages:** Java, Python, C
+* **Focus:** Comprehensive collection of solutions for interview preparation and competitive programming.
 
 ---
 
@@ -96,12 +108,12 @@
 
 ## 🎓 Education & Experience
 
-| Category | Details |
-| :--- | :--- |
-| **🎓 Education** | B.Tech – Computer Science Engineering |
-| **💼 Internship** | Web Development Intern – SkillCraft Technology |
-| **🏆 Certification** | MongoDB Developer Certification |
-| **📚 Focus** | MERN Stack, Data Structures, System Design |
+| Category             | Details                                        |
+| :------------------- | :--------------------------------------------- |
+| **🎓 Education**     | B.Tech – Computer Science Engineering          |
+| **💼 Internship**    | Web Development Intern – SkillCraft Technology |
+| **🏆 Certification** | MongoDB Developer Certification                |
+| **📚 Focus**         | MERN Stack, Data Structures, System Design     |
 
 ---
 
